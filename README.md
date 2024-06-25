@@ -7,7 +7,7 @@ Este proyecto demuestra la integración de FastAPI con Streamlit. La aplicación
 
    **Clonar el repositorio:**
 
-   git clone
+   git clone https://github.com/dnl0037/cypherser.git
    cd <directorio-del-repositorio>
 
 ## Crear y activar un entorno virtual:
@@ -18,4 +18,16 @@ Este proyecto demuestra la integración de FastAPI con Streamlit. La aplicación
 ## Instalar las dependencias requeridas:
 
     pip install -r requirements.txt
+
+## Cambiar keys a base de datos 
+
+## Ejecución de la Aplicación
+
+  ### Iniciar la aplicación FastAPI:
+
+  uvicorn app.main:app --reload
+
+  ### Iniciar la aplicación Streamlit:
+  
+  streamlit run stream_app.py
 
