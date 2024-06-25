@@ -8,7 +8,8 @@ Este proyecto demuestra la integración de FastAPI con Streamlit. La aplicación
    **Clonar el repositorio:**
 
    git clone https://github.com/dnl0037/cypherser.git
-   cd <directorio-del-repositorio>
+   
+   cd directorio-del-repositorio
 
 ## Crear y activar un entorno virtual:
 
